@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847799912344",
+    "project_id": "dream-bucket",
+    "storage_bucket": "dream-bucket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847799912344:android:4e7d6e98c79166fca84ded",
+        "android_client_info": {
+          "package_name": "dk.via.wishlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847799912344-q0k5ksh7p4ibvj5ofi7dk4v290t50mdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufVlQPis7hxPVw2bqo26RkUVaDaYkxCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847799912344-q0k5ksh7p4ibvj5ofi7dk4v290t50mdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

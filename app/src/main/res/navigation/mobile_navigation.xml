@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_login">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="dk.via.wishlist.ui.add_wish.AddWishFragment"
+        android:label="@string/menu_add_wish"
+        tools:layout="@layout/add_wish_fragment"/>
+
+    <fragment
+        android:id="@+id/nav_create_wishlist"
+        android:name="dk.via.wishlist.ui.wishlist.CreateWishlistFragment"
+        android:label="@string/menu_create_wishlist"/>
+
+    <fragment
+        android:id="@+id/nav_my_wishlists"
+        android:name="dk.via.wishlist.ui.my_wishlist.WishlistFragment"
+        android:label="@string/menu_my_wishlists"/>
+
+    <fragment
+        android:id="@+id/nav_login"
+        android:name="dk.via.wishlist.ui.login.LoginFragment"
+        android:label="@string/menu_login"/>
+
+    <fragment
+        android:id="@+id/nav_logout"
+        android:name="dk.via.wishlist.ui.logout.LogoutFragment"
+        android:label="@string/menu_logout"/>
+</navigation>

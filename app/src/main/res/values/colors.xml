@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ocean_1">#FF259DA1</color>
+    <color name="ocean_2">#FF1E7578</color>
+    <color name="ocean_3">#FF155052</color>
+    <color name="yellow_1">#FFFFC400</color>
+    <color name="yellow_2">#FF947203</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
